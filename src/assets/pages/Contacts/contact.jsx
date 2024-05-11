@@ -30,7 +30,7 @@ const Contact = () => {
         </div>
       </section>
    
-      <footer>&copy; Copyright 2024 || Made by Zakaria Akrabou.</footer>
+      <footer>&copy; Copyright 2024 || Made by AAFAK FATIMA ZAHRA.</footer>
     </>
   );
 };

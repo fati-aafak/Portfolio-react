@@ -16,7 +16,7 @@ header {
   content: "";
   height: 100%;
   width: 100%;
-  background: var(--color-primary);
+  background: black;
   position: absolute;
   z-index: -1;
   left: -80%;

@@ -131,7 +131,7 @@ export const services = [
 import protfoliImg1 from "../images/travel.png";
 import protfoliImg2 from "../images/artisanat.png";
 import protfoliImg3 from "../images/fitnes.png";
-import protfoliImg6 from "../images/atlasart.png";
+import protfoliImg6 from "../images/ark.png";
 export const portfolio = [
   {
     id: 1,
@@ -158,8 +158,9 @@ export const portfolio = [
   {
     id: 6,
     img: protfoliImg6,
-    name: "ATLAS DES ARTISAN",
-    des: "An artisanal marketplace connecting creators with customers seeking unique, handmade goods.",
+    name: "ARK-X",
+    des: "Formation ark jobintech",
+  
   },
 ];
 
