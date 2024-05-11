@@ -159,8 +159,7 @@ export const portfolio = [
     id: 6,
     img: protfoliImg6,
     name: "ARK-X",
-    des: "Formation ark jobintech",
-  
+    des: "Formation ark",
   },
 ];
 
