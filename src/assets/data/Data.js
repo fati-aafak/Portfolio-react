@@ -131,7 +131,13 @@ export const services = [
 import protfoliImg1 from "../images/travel.png";
 import protfoliImg2 from "../images/artisanat.png";
 import protfoliImg3 from "../images/fitnes.png";
-import protfoliImg6 from "../images/ark.png";
+import protfoliImg9 from "../images/ark.png";
+import portfolioImg6 from "../images/neom.png"
+import portfolioImg7 from "../images/its.png"
+import portfolioImg8 from "../images/azfood.png"
+import portfolioImg9 from "../images/rma.png"
+
+
 export const portfolio = [
   {
     id: 1,
@@ -154,10 +160,38 @@ export const portfolio = [
     des: "An all-in-one fitness app designed to help users achieve their health goals. Featuring personalized workout plans, nutrition tracking, and progress monitoring, it's your pocket gym and personal trainer rolled into one.",
     figma: "https://www.figma.com/file/WXaV3Nwmg032UrfgrUdZhb/Untitled?type=design&node-id=0-1&mode=design&t=PIxzVYhEB7IqEhhX-0",
   },
-
   {
     id: 6,
-    img: protfoliImg6,
+    img: portfolioImg6,
+    name: "neom",
+    des: "neom-agency",
+    figma: "https://www.figma.com/design/8yWToHmFZwxPFx3MmzHu3D/Neom?node-id=0-1&node-type=canvas&t=V4iOL4Fjx7Y4QkNi-0"
+  },
+  {
+    id: 7,
+    img: portfolioImg7,
+    name: "ITS",
+    des: "ITS",
+    figma: "https://www.figma.com/design/skA0IWk43i7KLlb1VlXyE1/its?node-id=0-1&node-type=canvas&t=Ity2248ThMvEqzJs-0"
+  },
+  {
+    id: 8,
+    img: portfolioImg8,
+    name: "AZ FOOD",
+    des: "az food",
+    figma: "https://www.figma.com/design/N0IkM80dGxDNERPk0UmrhV/az-food?node-id=0-1&node-type=canvas&t=L5dLlNMEJZvnw7g7-0"
+  },
+  {
+    id: 9,
+    img: portfolioImg9,
+    name: "Rma",
+    des: "rma",
+    figma: "https://www.figma.com/design/c6qZZnyuAty8PsXwt1OV1Q/RMA-Mobile?node-id=2-2&node-type=canvas&t=dtYEcvW8lCRfl0XJ-0"
+  },
+
+  {
+    id: 9,
+    img: protfoliImg9,
     name: "ARK-X",
     des: "Formation ark",
   },
