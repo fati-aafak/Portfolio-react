@@ -223,7 +223,7 @@ export const testimonials = [
   {
     id: 4,
     img: avatar4,
-    name: "Irfan Nazir",
+    name: "Irfan Nazirr",
     des: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione officiis iusto nulla exercitationem architecto sunt sint quis ipsam odio neque.",
   },
 ];
