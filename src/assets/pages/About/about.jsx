@@ -22,7 +22,7 @@ const About = () => {
           <div className="about-left">
             <h3>{`I'm AAFAK FATIMA ZAHRA`}</h3>
             <p>
-            "Welcome to my portfolio! I'm a passionate full-stack developer and UI/UX designer, dedicated to crafting seamless digital experiences. With a blend of creativity and technical expertise, I strive to bring ideas to life through elegant design and robust development. Explore my work and let's collaborate to transform visions into reality."
+            "Welcome to  my portfolio! I'm a passionate full-stack developer and UI/UX designer, dedicated to crafting seamless digital experiences. With a blend of creativity and technical expertise, I strive to bring ideas to life through elegant design and robust development. Explore my work and let's collaborate to transform visions into reality."
             </p>
             
             <a href={CV} download className="btn-nav">
