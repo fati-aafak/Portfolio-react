@@ -136,6 +136,7 @@ import portfolioImg6 from "../images/neom.png"
 import portfolioImg7 from "../images/its.png"
 import portfolioImg8 from "../images/azfood.png"
 import portfolioImg9 from "../images/rma.png"
+import portfolioImg10 from "../images/zest.png"
 
 
 export const portfolio = [
@@ -194,6 +195,14 @@ export const portfolio = [
     img: protfoliImg9,
     name: "ARK-X",
     des: "Formation ark",
+  },
+  
+  {
+    id: 10,
+    img: portfolioImg10,
+    name: "Zest juice",
+    des: "zast",
+    figma: "https://zestjuiceco.vercel.app/"
   },
 ];
 
