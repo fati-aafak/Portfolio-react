@@ -137,8 +137,9 @@ import portfolioImg7 from "../images/its.png"
 import portfolioImg8 from "../images/azfood.png"
 import portfolioImg9 from "../images/rma.png"
 import portfolioImg10 from "../images/zest.png"
-
-
+import portfolioImg11 from "../images/rmaa.png"
+import portfolioImg12 from "../images/fostp.png"
+import portfolioImg13 from "../images/dashrma.png"
 export const portfolio = [
   {
     id: 1,
@@ -203,6 +204,28 @@ export const portfolio = [
     name: "Zest juice",
     des: "zast",
     figma: "https://zestjuiceco.vercel.app/"
+  },
+   
+  {
+    id: 11,
+    img: portfolioImg11,
+    name: "RMA website",
+    des: "rechargemonauto",
+    figma: "https://rechargermonauto.com/mobile"
+  },
+   {
+    id: 13,
+    img: portfolioImg13,
+    name: "RMA Dashboard Angular",
+    des: "rechargemonauto",
+    figma: "https://github.com/Recharger-Mon-Auto/RMA-Dashboard-V2"
+  },
+  {
+    id: 12,
+    img: portfolioImg12,
+    name: "FOSTP website",
+    des: "Fondation des Œuvres Sociales des Travaux Publics",
+    figma: "https://www.figma.com/proto/dnbdB4XQPt29OWbrx5DNVr/fondation-2?node-id=0-1&fuid=1382745633307425618"
   },
 ];
 

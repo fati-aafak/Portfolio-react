@@ -1,5 +1,5 @@
 import "./about.css";
-import CV from "../../cv.pdf";
+import CV from "../../CV1.pdf";
 
 import Heading from "../../components/headingText/heading";
 import Card from "../../UI/card";

@@ -19,7 +19,7 @@ const Projects = () => {
                   <b>{name}</b>
                 </h3>
                 <p>{des}</p>
-                <a href={figma}>Figma</a>
+                <a href={figma}>Preview</a>
               </Card>
             );
           })}
